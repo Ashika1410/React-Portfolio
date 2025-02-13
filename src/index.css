@@ -1,0 +1,19 @@
+/* :root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.0;
+  font-weight: 400;
+  color-scheme: light dark;
+  color: rgba(211, 16, 16, 0.87)
+}
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #0086fc;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+} */
