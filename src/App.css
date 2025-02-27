@@ -33,7 +33,7 @@ nav a:hover {
 }
 
 .home-container {
-  background-image: url('E:/React Project/React-website/src/assets/bg1.jpg');
+  background-image: url('src/assets/bg1.jpg');
   color: white;
   text-align: center;
   padding: 1px;
@@ -47,7 +47,7 @@ nav a:hover {
   height: 5%;
 }
 .about-container{
-  background-image: url('E:/React Project/React-website/src/assets/bg3.jpg');
+  background-image: url('src/assets/bg3.jpg');
   color: white;
 }
 .about-container h1{
@@ -115,7 +115,7 @@ nav a:hover {
   text-align: center;
 }
 .skill-container{
-  background-image: url('E:/React Project/React-website/src/assets/bg2.jpg');
+  background-image: url('src/assets/bg2.jpg');
 }
 
 @keyframes logo-spin {
@@ -145,7 +145,7 @@ nav a:hover {
   width: 100%;
 }
 .service-container{
-  background-image: url('E:/React Project/React-website/src/assets/bg4.jpg');
+  background-image: url('src/assets/bg4.jpg');
 }
 .grid-container {
   display: grid;
@@ -169,14 +169,14 @@ nav a:hover {
   text-align: center;
 }
 .portfolio-container{
-  background-image:url('E:/React Project/React-website/src/assets/bg5.jpg') ;
+  background-image:url('src/assets/bg5.jpg') ;
 }
 
 .contact-container h1{
   text-align: center;
 }
 .contact-container{
-  background-image: url('E:/React Project/React-website/src/assets/bg6.jpg');
+  background-image: url('src/assets/bg6.jpg');
 }
 .lets-contact {
   margin-top: 6%;
