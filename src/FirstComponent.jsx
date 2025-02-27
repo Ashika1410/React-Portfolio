@@ -5,7 +5,7 @@ function NavBar() {
         <>
             <nav className="nav-bar">
                 <a href="/">
-                    <Link to="/home">Home</Link>
+                    <Link to="/">Home</Link>
                 </a>
                 <a href="/about">
                     <Link to="/about">About</Link>
